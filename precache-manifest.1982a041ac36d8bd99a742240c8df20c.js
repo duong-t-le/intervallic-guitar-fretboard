@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ff827d0c08f8f1fd330b",
+    "revision": "121884b60d6ce84c226e",
     "url": "/intervallic-guitar-fretboard/static/css/main.a453ef33.chunk.css"
   },
   {
-    "revision": "ff827d0c08f8f1fd330b",
-    "url": "/intervallic-guitar-fretboard/static/js/main.6f27fb27.chunk.js"
+    "revision": "121884b60d6ce84c226e",
+    "url": "/intervallic-guitar-fretboard/static/js/main.0c24a145.chunk.js"
   },
   {
     "revision": "43336a77cf954da3892d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/intervallic-guitar-fretboard/static/js/3.c70b6b5b.chunk.js"
   },
   {
-    "revision": "c72a35ebd8717a7c2880b9f3b93ab3cd",
+    "revision": "7cf1f85bfb780f5c620e801119bc1c8a",
     "url": "/intervallic-guitar-fretboard/index.html"
   }
 ];
