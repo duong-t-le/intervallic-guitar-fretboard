@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/intervallic-guitar-fretboard/precache-manifest.1982a041ac36d8bd99a742240c8df20c.js"
+  "/intervallic-guitar-fretboard/precache-manifest.48f1ec4763b9e91204320dac7d208421.js"
 );
 
 workbox.clientsClaim();
