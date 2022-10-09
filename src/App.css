@@ -16,3 +16,12 @@
 canvas {
   cursor: pointer
 }
+
+h1 {
+  margin: .2em;
+  font-size: 1em;
+}
+
+.intervalOption {
+  margin-right: .5em;
+}
